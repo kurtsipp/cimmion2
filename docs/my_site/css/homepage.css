@@ -1,0 +1,34 @@
+
+
+body {
+  font-family: 'CursiveFont', cursive;
+  color: yellow; 
+  background-image: url('../images/cinnamin.gif');
+  background-repeat: repeat;
+  margin: 0;
+}
+
+h1 {
+  color: yellow; 
+}
+
+body :not(ul) a {
+  font-family: 'Arial', sans-serif;
+  color: blue; 
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px; 
+}
+
+section {
+  text-align: center;
+  font-size: 1.5em;
+}

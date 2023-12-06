@@ -1,0 +1,16 @@
+/* products.css */
+
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: red;
+  margin: 0;
+}
+ul li {
+  margin-right: 10px;
+}
+
+a {
+  color: blue; 
+}
+
