@@ -1,0 +1,24 @@
+
+body {
+  font-family: Arial, sans-serif;
+  color: Black;
+}
+
+h1, h2 {
+  color: Orange; 
+}
+
+a {
+  color: Blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline; 
+}
+
+address {
+  margin-top: 10px;
+  font-style: italic;
+}
+

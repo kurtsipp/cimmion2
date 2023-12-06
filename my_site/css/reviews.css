@@ -1,0 +1,35 @@
+/* reviews.css */
+
+body {
+  font-family: Arial, sans-serif;
+  color: black;
+  background-color: green; 
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  color: blue
+  margin: 0;
+}
+
+ul li {
+  margin-right: 10px;
+}
+
+section {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}

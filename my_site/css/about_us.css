@@ -1,0 +1,23 @@
+
+h1, h2 {
+  color: red; 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+ul li {
+  margin-right: 10px;
+}
+
+section {
+  margin-top: 20px;
+}
+
+a {
+  color: blue; 
+}
